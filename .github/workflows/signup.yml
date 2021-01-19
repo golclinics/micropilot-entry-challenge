@@ -1,6 +1,6 @@
 name: Signup Form Link
 
-on: pull-request
+on: pull_request
 
 jobs:
   signup_form_link:
