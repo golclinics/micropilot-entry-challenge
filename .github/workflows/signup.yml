@@ -1,6 +1,6 @@
 name: Signup Form Link
 
-on: pull_request
+on: [pull_request_target, pull_request]
 
 jobs:
   signup_form_link:
@@ -13,5 +13,5 @@ jobs:
       - name: Comment on the PR with a signup form link
         uses: thollander/actions-comment-pull-request@master
         with:
-          message: 'Thanks for creating this PR. Please submit your details on [this form](http://aka.ms/golclinics-signup-1)'
+          message: 'Thanks for creating this PR. Please submit your details on [this form](${{ secrets.SIGNUP_FORM }})'
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
