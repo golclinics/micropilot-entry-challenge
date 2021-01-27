@@ -11,7 +11,7 @@ if __name__ == '__main__':
         sq = math.sqrt(sqv1 - sqv2)
         # Quation denominator
         xDenom = 2 * a
-        # X1  NUmerator
+        # X1  Numerator
         x1Num = (-b + sq)
         # X2  Numerator
         x2Num = (-b - sq)
