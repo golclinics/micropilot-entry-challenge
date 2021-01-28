@@ -5,6 +5,7 @@ def getX(a,b,c):
     i.e. given x1 = -2 and x2 = 5, getX should return 5.
     """
     import numpy as np
+
     q = (b*b) - (4*a*c)
 
     x1 = (-b - np.sqrt(q))/(2*a)
