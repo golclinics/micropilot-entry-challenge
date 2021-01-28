@@ -11,9 +11,14 @@ def quadratics():
            print("These are complex numbers")
        else:
            sqrtvalue = math.sqrt( bsquare - second)
-           print("The values of x are")
-           print((-b + sqrtvalue)/ (2*a))
-           print((-b - sqrtvalue)/ (2*a))
+           firstvalue = (-b + sqrtvalue)/ (2*a)
+           secondvalue = (-b - sqrtvalue)/ (2*a)
+
+           if firstvalue > secondvalue:
+               print(firstvalue)
+            
+           else:
+                print(secondvalue)
            
     else:
         print("a should not be zero")
