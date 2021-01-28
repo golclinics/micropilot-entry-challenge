@@ -1,4 +1,5 @@
-from math import  sqrt, pow
+from math import sqrt, pow
+
 
 def getX(a, b, c):
     x1 = (-b + sqrt(pow(b, 2) - (4 * a * c)))/(2*a)
@@ -10,5 +11,5 @@ def getX(a, b, c):
     else:
         x = x2
 
-    return  x
+    return x
 
