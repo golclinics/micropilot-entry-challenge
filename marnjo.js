@@ -2,4 +2,4 @@ const getX = (x,y) => {
   console.log( x > y? x: y );
 }
 
-getX(10, 10);
+getX(-2, 5);
