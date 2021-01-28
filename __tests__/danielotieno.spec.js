@@ -1,3 +1,5 @@
+const getX = require('../danielotieno');
+
 describe('Get max root function', () => {
   test('it should return the maximum root from the quadratric expression ', () => {
     const a = 1;
