@@ -1,7 +1,7 @@
 from math import sqrt
 
-def getX(a, b, c):
 
+def getX(a, b, c):
     s_root = (b ** 2) - (4 * a * c)
 
     if s_root > 0:
@@ -14,12 +14,11 @@ def getX(a, b, c):
         print("For the given values x is {} ", x)
 
     else:
-        print("For the given values there are no roots")
+        print("For the given values there are no real root")
         exit()
 
     return
 
+
 if __name__ == '__main__':
     getX(5, 20, 10)
-
-
