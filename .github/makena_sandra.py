@@ -2,8 +2,10 @@ from math import sqrt
 
 
 def getX(a, b, c):
+    # Get square root value
     s_root = (b ** 2) - (4 * a * c)
 
+    # Checks based on value of s_root
     if s_root > 0:
         x1 = (((-b) + sqrt(s_root)) / (2 * a))
         x2 = (((-b) - sqrt(s_root)) / (2 * a))
