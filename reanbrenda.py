@@ -3,8 +3,7 @@ import math
 
 
 def getx(a,b,c):
-    squarev = b * b - (4 * a * c)
-    if (a == 0):
+    if a == 0:
         return None
         # calculating the square root
     squarev = b * b - (4 * a * c)
