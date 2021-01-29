@@ -1,0 +1,23 @@
+{
+  "name": "micropilot-entry-challenge",
+  "version": "1.0.0",
+  "description": "Entry challenges for the GOL clinics",
+  "main": "mariamiah.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariamiah/micropilot-entry-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariamiah/micropilot-entry-challenge/issues"
+  },
+  "homepage": "https://github.com/mariamiah/micropilot-entry-challenge#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
