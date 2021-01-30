@@ -1,4 +1,4 @@
-function solve(a, b, c) {
+function getx(a, b, c) {
     var result = (-1 * b + Math.sqrt(Math.pow(b, 2) - (4 * a * c))) / (2 * a);
     var result2 = (-1 * b - Math.sqrt(Math.pow(b, 2) - (4 * a * c))) / (2 * a);
     if(result>result2){
@@ -13,4 +13,4 @@ function solve(a, b, c) {
     }
   
 }
-console.log(solve(3, 4, 6));
+getx(a,b,c);
