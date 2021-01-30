@@ -18,7 +18,7 @@ def getx(a, b, c):
     firstRoot = (-b+cmath.sqrt(d)) / (2*a)
     secondRoot = (-b-cmath.sqrt(d)) / (2*a)
 
-    #For real roots
+    #For comparison of real roots
     if d >= 0:
         #Absolute to eliminate the zero valued imaginary part
         firstRoot = abs(firstRoot)
@@ -30,7 +30,7 @@ def getx(a, b, c):
         else:
             largerX = secondRoot
         
-    #For complex roots    
+    #For comparison of complex roots    
     else: 
         if abs(firstRoot) >= abs(secondRoot):
             largerX = firstRoot
