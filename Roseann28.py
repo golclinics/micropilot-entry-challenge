@@ -1,5 +1,5 @@
 import math
-def get_X(a,b,c):
+def getX(a,b,c):
     if a==0:
         print("Enter another number other than zero")
     else:
@@ -19,4 +19,4 @@ def get_X(a,b,c):
 a1=int(input('Enter a:'))
 b1=int(input('Enter b:'))
 c1=int(input('Enter c:'))
-get_X(a1,b1,c1)
+getX(a1,b1,c1)
