@@ -8,7 +8,7 @@ def getx(a, b, c):
     c (int): Constant term
   
     Returns: 
-    int: The largest root
+    int: The largest of the two roots
     """
     import cmath #Module for complex numbers operation
 
