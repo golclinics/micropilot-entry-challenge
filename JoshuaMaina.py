@@ -2,18 +2,18 @@ from math import sqrt
 
 
 def get_max_x(a, b, c):
-    if not (isinstance(a, int) &
-            isinstance(b, int) &
-            isinstance(c, int)):
-        print("One of the values is not an integer")
-    else:
+    try:
         value = b ** 2 - 4 * a * c
-        if value < 0:
-            print("This leads to an imaginary number as the root")
-        else:
-            x1 = (-b + sqrt(value)) / (2 * a)
-            x2 = (-b - sqrt(value)) / (2 * a)
-            return max(x1, x2)
+        x1 = (-b + sqrt(value)) / (2 * a)
+        x2 = (-b - sqrt(value)) / (2 * a)
+        return max(x1, x2)
+    except TypeError:
+        print("Incorrect types used for operation")
+        print("All digits are required to be integers")
+    except ZeroDivisionError:
+        print("The variable a should not be a 0")
+    except ValueError:
+        print("The root of this equation is an imaginary number")
 
 
 # Example 1
