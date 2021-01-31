@@ -28,6 +28,7 @@ try:
 except ValueError:
     print("Invalid input")
 
+# calling the function
 try:
     if a == 0:
         print("Input correct quadratic equation")
