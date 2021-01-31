@@ -23,5 +23,3 @@ function getX(a, b, c) {
     console.log("the equation has no real roots");
   }
 }
-
-getX(6, 11, -35);
