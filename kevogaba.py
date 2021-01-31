@@ -28,5 +28,10 @@ try:
 except ValueError:
     print("Invalid input")
 
-
-getX(a, b, c)
+try:
+    if a == 0:
+        print("Input correct quadratic equation")
+    else:
+        getX(a, b, c)
+except NameError:
+    print("Invalid input")
