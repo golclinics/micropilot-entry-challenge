@@ -9,11 +9,11 @@ def getX(a, b, c):
     if s_root > 0:
         x1 = (((-b) + sqrt(s_root)) / (2 * a))
         x2 = (((-b) - sqrt(s_root)) / (2 * a))
-        print("For the given values the larger value of x is {}".format(max(x1, x2)))
+        print(f"For the given values the larger value of x is {max(x1, x2)}")
 
     elif s_root == 0:
         x = (-b) / 2 * a
-        print("For the given values x is {} ", x)
+        print(f"For the given values x is {x} ")
 
     else:
         print("For the given values there are no real root")
