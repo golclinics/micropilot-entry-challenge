@@ -5,6 +5,7 @@ The function will not handle complex roots
 
 import unittest
 from math import sqrt
+
 def getX(a,b,c):
     if a == 0:
         raise ValueError("Cannot Divide by zero")
