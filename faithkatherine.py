@@ -1,5 +1,5 @@
 import math
-def quadratics():
+def getX():
     a = int(input("enter the value of a, it should not be zero:"))
     b = int(input("enter the value of b:"))
     c = int(input("enter the value of c:"))
@@ -25,7 +25,7 @@ def quadratics():
     
     return
 
-quadratics()
+getX()
 
 
     
