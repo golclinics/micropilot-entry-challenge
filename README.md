@@ -1,3 +1,2 @@
 # GOL Clinics Entry Challenge 
-
-Entry challenges for the GOL clinics 
+Run index.html in browser and check console
