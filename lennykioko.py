@@ -14,7 +14,7 @@ def getX(a, b, c):
     c = validate(c)
 
     if a == 0:
-        raise ValueError(f"Value of a cannot be zero")
+        raise ValueError("Value of 'a' cannot be zero")
 
     disc = (b ** 2) - (4 * a * c)  # discriminant
 
@@ -34,7 +34,8 @@ if __name__ == '__main__':
         a = float(input("Enter value of a: "))
         b = float(input("Enter value of b: "))
         c = float(input("Enter value of c: "))
+
+        print(getX(a, b, c))
+
     except Exception as e:
         print(e)
-
-    print(getX(a, b, c))
