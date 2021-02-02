@@ -18,9 +18,8 @@ def getX(a,b,c):
 
     print("This equation has two solutions: x1:",x1, " or, x2:",x2)
 
-    if (x1 > x2):
-        print('x1:', x1)
-    else:
-        print('x2:', x2)
+    if (x1 > x2): print('x1:', x1)
+    else: print('x2:', x2)
+
 
 getX(2, 10, 4)
