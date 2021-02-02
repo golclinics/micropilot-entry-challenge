@@ -5,6 +5,9 @@ def compute_roots(a, b, c):
 
     discriminant = cmath.sqrt((b ** 2) - (4 * a * c))
 
+    if a == 0:
+        raise ValueError("Value of a cannot be 0")
+
     x1 = (-b + discriminant) / (2 * a)
     x2 = (-b - discriminant) / (2 * a)
 
@@ -28,5 +31,6 @@ if __name__ == "__main__":
 
             print(getX(a, b, c))
             break
-        except ValueError:
+        except ValueError as e:
+            print("Exception:", e)
             print("Not a valid value.. Please try again..")
