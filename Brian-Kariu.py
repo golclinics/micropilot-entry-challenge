@@ -1,5 +1,6 @@
 import math
 def getX(a,b,c):
+    #Made an exception in the event of the calculation of square root of a negative number
     try:
         x1 = (-b - math.sqrt(b*b - 4*a*c))/2*a
         x2 = (-b + math.sqrt(b*b - 4*a*c))/2*a
