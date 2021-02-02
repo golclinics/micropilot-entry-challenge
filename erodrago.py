@@ -20,8 +20,13 @@ def getX(a, b, c):
 
 if __name__ == "__main__":
 
-    a = float(input("Enter value of a \n"))
-    b = float(input("Enter value of b \n"))
-    c = float(input("Enter value of c \n"))
+    while True:
+        try:
+            a = float(input("Enter value of a \n"))
+            b = float(input("Enter value of b \n"))
+            c = float(input("Enter value of c \n"))
 
-    print(getX(a, b, c))
+            print(getX(a, b, c))
+            break
+        except ValueError:
+            print("Not a valid value.. Please try again..")
