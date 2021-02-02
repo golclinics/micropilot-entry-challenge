@@ -23,6 +23,7 @@ def getX(a, b, c):
 
 if __name__ == "__main__":
 
+<<<<<<< HEAD
     while True:
         try:
             a = float(input("Enter value of a \n"))
@@ -34,3 +35,10 @@ if __name__ == "__main__":
         except ValueError as e:
             print("Exception:", e)
             print("Not a valid value.. Please try again..")
+=======
+    a = float(input("Enter value of a \n"))
+    b = float(input("Enter value of b \n"))
+    c = float(input("Enter value of c \n"))
+
+    print(getX(a, b, c))
+>>>>>>> parent of 3cc01fd... exception handling of inputs
