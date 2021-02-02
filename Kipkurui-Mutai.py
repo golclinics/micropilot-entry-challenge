@@ -6,7 +6,6 @@
 # x1 = (-b+math.sqrt((b**2)-(4*(a*c))))/(2*a)
 # x2 = (-b-math.sqrt((b**2)-(4*(a*c))))/(2*a)
 
-
 # Solution.
 
 import math
@@ -14,12 +13,11 @@ import math
 # set 3 params
 def getX(a,b,c):
 
-    x1 = (-b+math.sqrt((b**2)-(4*(a*c))))/(2*a) ; x2 = (-b-math.sqrt((b**2)-(4*(a*c))))/(2*a)
+    try:
+        x1 = (-b+math.sqrt((b**2)-(4*(a*c))))/(2*a) ; x2 = (-b-math.sqrt((b**2)-(4*(a*c))))/(2*a)
+        if (x1 > x2): print('x1:', x1)
+        else: print('x2:', x2)
+    except ValueError:
+        print("Impossible, No square root of a negative number")
 
-    print("This equation has two solutions: x1:",x1, " or, x2:",x2)
-
-    if (x1 > x2): print('x1:', x1)
-    else: print('x2:', x2)
-
-
-getX(2, 10, 4)
+getX(2, 101, 14)
