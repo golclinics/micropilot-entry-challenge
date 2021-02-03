@@ -5,7 +5,7 @@ def validate_coefficients(val):
     if isinstance(val, float) or isinstance(val, int):
         return val
     else:
-        raise ValueError("{}, hould be an int or float".format(val))
+        raise ValueError("Constraint {}, should be an int or float".format(val))
 
 
 def getX(a, b, c):
