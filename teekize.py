@@ -1,20 +1,20 @@
 import math
 
 
-def validate_constants(val):
-    if isinstance(val, int) or isinstance(val, float):
+def validate_coefficients(val):
+    if isinstance(val, float) or isinstance(val, int):
         return val
     else:
-        raise ValueError("Wrong input {}, value should be an int or float").format(val)
+        raise ValueError("{}, hould be an int or float".format(val))
 
 
 def getX(a, b, c):
-    a = validate_constants(a)
-    b = validate_constants(b)
-    c = validate_constants(c)
+    a = validate_coefficients(a)
+    b = validate_coefficients(b)
+    c = validate_coefficients(c)
 
     if a == 0:
-        raise ValueError("Value of a cannot be zero")
+        raise ValueError("a, should not be zero")
 
     discriminant = (b ** 2) - (4 * a * c)
 
@@ -30,7 +30,11 @@ def getX(a, b, c):
         return max(x1, x2)
 
 
-if __name__ == '__main__':
+if __name__ == '__main__': 
+    """
+    if file is ran directly get some user input
+    and test the inputs.
+    """
     try:
         a = float(input("Enter value of a: "))
         b = float(input("Enter value of b: "))
@@ -38,4 +42,4 @@ if __name__ == '__main__':
     except Exception as e:
         print(e)
 
-    print(getX(a, b, c))
+    print(getX(a,b,c))
