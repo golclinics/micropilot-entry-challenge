@@ -1,0 +1,7 @@
+C:\Projects\kayuyu\micropilot-entry-challenge\kayuyumwaura\kayuyumwaura\bin\Debug\kayuyumwaura.exe.config
+C:\Projects\kayuyu\micropilot-entry-challenge\kayuyumwaura\kayuyumwaura\bin\Debug\kayuyumwaura.exe
+C:\Projects\kayuyu\micropilot-entry-challenge\kayuyumwaura\kayuyumwaura\bin\Debug\kayuyumwaura.pdb
+C:\Projects\kayuyu\micropilot-entry-challenge\kayuyumwaura\kayuyumwaura\obj\Debug\kayuyumwaura.csprojAssemblyReference.cache
+C:\Projects\kayuyu\micropilot-entry-challenge\kayuyumwaura\kayuyumwaura\obj\Debug\kayuyumwaura.csproj.CoreCompileInputs.cache
+C:\Projects\kayuyu\micropilot-entry-challenge\kayuyumwaura\kayuyumwaura\obj\Debug\kayuyumwaura.exe
+C:\Projects\kayuyu\micropilot-entry-challenge\kayuyumwaura\kayuyumwaura\obj\Debug\kayuyumwaura.pdb
