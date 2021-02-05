@@ -1,0 +1,8 @@
+# ignore object files
+*
+
+!*.*
+
+!*/
+
+.vscode
