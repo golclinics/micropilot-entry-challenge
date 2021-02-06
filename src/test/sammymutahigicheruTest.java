@@ -26,4 +26,8 @@ public class sammymutahigicheruTest{
     public void thirdCaseDeterminantLessThanZero_ReturnsGreaterOfTheTwoNegativeRealNumbers(){
         Assert.assertEquals(-0.7192235935955849,quadratic.getX(2,7,4),DELTA);
     }
+    @Test
+    public void fakeTest_ReturnsNotEqual(){
+        Assert.assertNotEquals(0,quadratic.getX(1,-15,56),DELTA);
+    }
 }
