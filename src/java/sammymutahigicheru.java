@@ -7,8 +7,12 @@
 * */
 
 public class sammymutahigicheru {
-    private double x1=0,x2=0;
+
     double getX(double a,double b,double c){
+
+        //roots
+        double x2 = 0;
+        double x1 = 0;
 
         // calculate the determinant (b^2 - 4ac)
         double determinant = b * b - 4 * a * c;
@@ -17,7 +21,6 @@ public class sammymutahigicheru {
         * First Test Case( det > 0)
         *
         * */
-
         if (determinant > 0) {
 
             // two real and distinct roots
@@ -30,8 +33,8 @@ public class sammymutahigicheru {
         * */
         else if (determinant == 0) {
 
-            // two real and equal roots
-            // determinant is equal to 0
+            // x1 and x2 are equal
+            // det = 0
             // so -b + 0 == -b
             x1 = x2 = -b / (2 * a);
         }
@@ -40,7 +43,7 @@ public class sammymutahigicheru {
         * */
         else {
 
-            // roots are complex number and distinct
+            // x1 and x2 are complex numbers and distinct
             x1 = -b / (2 * a);
             x2 = Math.sqrt(-determinant) / (2 * a);
         }
