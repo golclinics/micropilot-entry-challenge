@@ -25,7 +25,7 @@ let quadratiExp = (a, b, c) => {
 }
 
 let inValidInput = (a, b, c) => {
-    if (typeof a === "string" || typeof b === "string" || typeof c === "string") {
+    if (isNaN(a) ||isNaN(b) || isNaN(c)) {
         return true
     }
     return false
