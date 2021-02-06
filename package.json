@@ -4,7 +4,7 @@
   "description": "Entry challenges for the GOL clinics",
   "main": "jama5262.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jama5262/micropilot-entry-challenge/issues"
   },
-  "homepage": "https://github.com/jama5262/micropilot-entry-challenge#readme"
+  "homepage": "https://github.com/jama5262/micropilot-entry-challenge#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
 }

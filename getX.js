@@ -1,4 +1,8 @@
 let getX = (a, b, c) => {
+    if (inValidInput(a, b, c)) {
+        throw "Invalid input"
+    }
+
     let result = quadratiExp(a, b, c)
     return Math.max(result[0], result[1])
 }
@@ -14,10 +18,17 @@ let quadratiExp = (a, b, c) => {
 
     let denominator =  2 * a
 
-    let x1 = (-b + numerator) / denominator
-    let x2 = (-b - numerator) / denominator
+    let x1 = ((-b + numerator) / denominator).toFixed(2)
+    let x2 = ((-b - numerator) / denominator).toFixed(2)
 
     return [x1, x2]
+}
+
+let inValidInput = (a, b, c) => {
+    if (typeof a === "string" || typeof b === "string" || typeof c === "string") {
+        return true
+    }
+    return false
 }
 
 module.exports = getX
