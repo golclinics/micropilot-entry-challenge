@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "..\UnitTests\UnitTests.csproj", "{D190C4CB-A284-4497-B45A-470EECFDB3DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadraticFormula", "..\QuadraticFormula\QuadraticFormula.csproj", "{D35D6C02-F963-41D7-AE4B-2D127403168A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D190C4CB-A284-4497-B45A-470EECFDB3DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D190C4CB-A284-4497-B45A-470EECFDB3DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D190C4CB-A284-4497-B45A-470EECFDB3DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D190C4CB-A284-4497-B45A-470EECFDB3DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D35D6C02-F963-41D7-AE4B-2D127403168A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D35D6C02-F963-41D7-AE4B-2D127403168A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D35D6C02-F963-41D7-AE4B-2D127403168A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D35D6C02-F963-41D7-AE4B-2D127403168A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {758A3583-C657-45FF-9095-790127DDA277}
+	EndGlobalSection
+EndGlobal
