@@ -1,0 +1,19 @@
+{
+  "name": "micropilot-entry-challenge",
+  "version": "1.0.0",
+  "description": "Entry challenges for the GOL clinics",
+  "main": "jama5262.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jama5262/micropilot-entry-challenge.git"
+  },
+  "author": "Jama Mohamed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jama5262/micropilot-entry-challenge/issues"
+  },
+  "homepage": "https://github.com/jama5262/micropilot-entry-challenge#readme"
+}
