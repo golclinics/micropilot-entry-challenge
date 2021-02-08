@@ -1,0 +1,13 @@
+C:\Users\v-etmwal\Desktop\Ethy\C#\Quadratic\bin\Debug\netcoreapp3.1\Quadratic.exe
+C:\Users\v-etmwal\Desktop\Ethy\C#\Quadratic\bin\Debug\netcoreapp3.1\Quadratic.deps.json
+C:\Users\v-etmwal\Desktop\Ethy\C#\Quadratic\bin\Debug\netcoreapp3.1\Quadratic.runtimeconfig.json
+C:\Users\v-etmwal\Desktop\Ethy\C#\Quadratic\bin\Debug\netcoreapp3.1\Quadratic.runtimeconfig.dev.json
+C:\Users\v-etmwal\Desktop\Ethy\C#\Quadratic\bin\Debug\netcoreapp3.1\Quadratic.dll
+C:\Users\v-etmwal\Desktop\Ethy\C#\Quadratic\bin\Debug\netcoreapp3.1\Quadratic.pdb
+C:\Users\v-etmwal\Desktop\Ethy\C#\Quadratic\obj\Debug\netcoreapp3.1\Quadratic.csprojAssemblyReference.cache
+C:\Users\v-etmwal\Desktop\Ethy\C#\Quadratic\obj\Debug\netcoreapp3.1\Quadratic.AssemblyInfoInputs.cache
+C:\Users\v-etmwal\Desktop\Ethy\C#\Quadratic\obj\Debug\netcoreapp3.1\Quadratic.AssemblyInfo.cs
+C:\Users\v-etmwal\Desktop\Ethy\C#\Quadratic\obj\Debug\netcoreapp3.1\Quadratic.csproj.CoreCompileInputs.cache
+C:\Users\v-etmwal\Desktop\Ethy\C#\Quadratic\obj\Debug\netcoreapp3.1\Quadratic.dll
+C:\Users\v-etmwal\Desktop\Ethy\C#\Quadratic\obj\Debug\netcoreapp3.1\Quadratic.pdb
+C:\Users\v-etmwal\Desktop\Ethy\C#\Quadratic\obj\Debug\netcoreapp3.1\Quadratic.genruntimeconfig.cache

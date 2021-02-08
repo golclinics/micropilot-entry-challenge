@@ -1,0 +1,17 @@
+C:\Users\v-etmwal\Desktop\Ethy\C#\QuadraticFormula\bin\Debug\netcoreapp3.1\QuadraticFormula.deps.json
+C:\Users\v-etmwal\Desktop\Ethy\C#\QuadraticFormula\bin\Debug\netcoreapp3.1\QuadraticFormula.dll
+C:\Users\v-etmwal\Desktop\Ethy\C#\QuadraticFormula\bin\Debug\netcoreapp3.1\QuadraticFormula.pdb
+C:\Users\v-etmwal\Desktop\Ethy\C#\QuadraticFormula\obj\Debug\netcoreapp3.1\QuadraticFormula.AssemblyInfoInputs.cache
+C:\Users\v-etmwal\Desktop\Ethy\C#\QuadraticFormula\obj\Debug\netcoreapp3.1\QuadraticFormula.AssemblyInfo.cs
+C:\Users\v-etmwal\Desktop\Ethy\C#\QuadraticFormula\obj\Debug\netcoreapp3.1\QuadraticFormula.csproj.CoreCompileInputs.cache
+C:\Users\v-etmwal\Desktop\Ethy\C#\QuadraticFormula\obj\Debug\netcoreapp3.1\QuadraticFormula.dll
+C:\Users\v-etmwal\Desktop\Ethy\C#\QuadraticFormula\obj\Debug\netcoreapp3.1\QuadraticFormula.pdb
+C:\Users\v-cakima.REDMOND\Downloads\QuadraticRoots_Code\C#\QuadraticFormula\bin\Debug\netcoreapp3.1\QuadraticFormula.deps.json
+C:\Users\v-cakima.REDMOND\Downloads\QuadraticRoots_Code\C#\QuadraticFormula\bin\Debug\netcoreapp3.1\QuadraticFormula.dll
+C:\Users\v-cakima.REDMOND\Downloads\QuadraticRoots_Code\C#\QuadraticFormula\bin\Debug\netcoreapp3.1\QuadraticFormula.pdb
+C:\Users\v-cakima.REDMOND\Downloads\QuadraticRoots_Code\C#\QuadraticFormula\obj\Debug\netcoreapp3.1\QuadraticFormula.csprojAssemblyReference.cache
+C:\Users\v-cakima.REDMOND\Downloads\QuadraticRoots_Code\C#\QuadraticFormula\obj\Debug\netcoreapp3.1\QuadraticFormula.AssemblyInfoInputs.cache
+C:\Users\v-cakima.REDMOND\Downloads\QuadraticRoots_Code\C#\QuadraticFormula\obj\Debug\netcoreapp3.1\QuadraticFormula.AssemblyInfo.cs
+C:\Users\v-cakima.REDMOND\Downloads\QuadraticRoots_Code\C#\QuadraticFormula\obj\Debug\netcoreapp3.1\QuadraticFormula.csproj.CoreCompileInputs.cache
+C:\Users\v-cakima.REDMOND\Downloads\QuadraticRoots_Code\C#\QuadraticFormula\obj\Debug\netcoreapp3.1\QuadraticFormula.dll
+C:\Users\v-cakima.REDMOND\Downloads\QuadraticRoots_Code\C#\QuadraticFormula\obj\Debug\netcoreapp3.1\QuadraticFormula.pdb
