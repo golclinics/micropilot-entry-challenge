@@ -3,8 +3,8 @@ x = 0
 
 count = 0
 
-for ele in myList:
-    if(ele==x):
+for i in myList:
+    if(i==x):
         count=count+1
 
 print("{} has occured {} times".format(x,count))
