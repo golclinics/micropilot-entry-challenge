@@ -5,5 +5,7 @@ def CountZero(*args):
         A.append(x)
     print(f'The number of zero is; {A.count(0)}')
     return A   
+
 # test = CountZero(32, 4, 0, 3, 0, 4, 5)
 # print(test)
+
