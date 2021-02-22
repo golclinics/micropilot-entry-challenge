@@ -6,7 +6,7 @@ namespace Clincs
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter the number array digit");
+            Console.WriteLine("Enter the number of array elements you want");
 
             int ArrayLength = Convert.ToInt32(Console.ReadLine());
 
@@ -14,14 +14,14 @@ namespace Clincs
 
             for (int i = 0; i < ArrayLength; i++)
             {
-                Console.WriteLine($"Enter the {i} digit array");
+                Console.WriteLine($"Insert a number to the {i} index element");
 
                 arrnumber[i] = Convert.ToInt32(Console.ReadLine());
             }
 
             int numberofO = CountZeros(arrnumber);
 
-            Console.WriteLine($"The number of O's in the array is {numberofO}");
+            Console.WriteLine($"The number of O's is {numberofO}");
         }
 
         static int CountZeros(int[] A)
