@@ -1,4 +1,5 @@
 public class CountZeros {
+
     public static void main(String[] args) {
         int [] array = {1, 0, 5, 6, 0, 2};
         System.out.println(countZeros(array));
