@@ -12,7 +12,7 @@ Pseudocode
 4. if 0 occurs in the array, add 1 to the count
 5. return count
 """
-
+# Time complexity = O(n) space complexity = O(1)
 def CountZeros(A):
     count= 0
     for i in range (len(A)):
