@@ -1,5 +1,5 @@
-def CountZeros(A): # Create a function called A
-    count=0 # Initalize the count value
+def CountZeros(A): # Create a function called CountZero
+    count=0 # Initialize the count value
     for i in A: # Create a for loop to get values in the array
         if i == 0: # check if value matches Zero
             count+=1 # count the number of times the value occurs
