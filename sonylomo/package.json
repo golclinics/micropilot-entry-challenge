@@ -1,0 +1,16 @@
+{
+  "name": "golclinics",
+  "version": "1.0.0",
+  "description": "function that counts zeroes in an array",
+  "main": "count_zero.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Sony Lomo",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
