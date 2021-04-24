@@ -13,7 +13,7 @@ namespace countzeros
             int[] A = { 1, 0, 5, 6, 0, 2 };
             int count = 0;
 
-            for (int j = 0; j < (A.Length - 1); j++)
+            for (int j = 0; j <= (A.Length - 1); j++)
             {
                 if (A[j] == 0)
                 {
