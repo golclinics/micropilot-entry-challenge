@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "countzeros", "countzeros\countzeros.csproj", "{52999A70-422D-4A6D-AA5B-FD6B38127650}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52999A70-422D-4A6D-AA5B-FD6B38127650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52999A70-422D-4A6D-AA5B-FD6B38127650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52999A70-422D-4A6D-AA5B-FD6B38127650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52999A70-422D-4A6D-AA5B-FD6B38127650}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC3CDD35-04A1-4755-A5D8-4EC390E7E5FD}
+	EndGlobalSection
+EndGlobal

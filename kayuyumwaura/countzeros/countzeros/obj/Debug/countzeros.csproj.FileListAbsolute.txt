@@ -1,0 +1,14 @@
+C:\Projects\kayuyu\kayuyu\micropilot-entry-challenge\kayuyumwaura\countzeros\countzeros\bin\Debug\countzeros.exe.config
+C:\Projects\kayuyu\kayuyu\micropilot-entry-challenge\kayuyumwaura\countzeros\countzeros\bin\Debug\countzeros.exe
+C:\Projects\kayuyu\kayuyu\micropilot-entry-challenge\kayuyumwaura\countzeros\countzeros\bin\Debug\countzeros.pdb
+C:\Projects\kayuyu\kayuyu\micropilot-entry-challenge\kayuyumwaura\countzeros\countzeros\obj\Debug\countzeros.csprojAssemblyReference.cache
+C:\Projects\kayuyu\kayuyu\micropilot-entry-challenge\kayuyumwaura\countzeros\countzeros\obj\Debug\countzeros.csproj.CoreCompileInputs.cache
+C:\Projects\kayuyu\kayuyu\micropilot-entry-challenge\kayuyumwaura\countzeros\countzeros\obj\Debug\countzeros.exe
+C:\Projects\kayuyu\kayuyu\micropilot-entry-challenge\kayuyumwaura\countzeros\countzeros\obj\Debug\countzeros.pdb
+C:\Projects\kayuyu\clonedrepo\micropilot-entry-challenge\kayuyumwaura\countzeros\countzeros\obj\Debug\countzeros.csprojAssemblyReference.cache
+C:\Projects\kayuyu\clonedrepo\micropilot-entry-challenge\kayuyumwaura\countzeros\countzeros\obj\Debug\countzeros.csproj.CoreCompileInputs.cache
+C:\Projects\kayuyu\clonedrepo\micropilot-entry-challenge\kayuyumwaura\countzeros\countzeros\obj\Debug\countzeros.exe
+C:\Projects\kayuyu\clonedrepo\micropilot-entry-challenge\kayuyumwaura\countzeros\countzeros\obj\Debug\countzeros.pdb
+C:\Projects\kayuyu\clonedrepo\micropilot-entry-challenge\kayuyumwaura\countzeros\countzeros\bin\Debug\countzeros.exe.config
+C:\Projects\kayuyu\clonedrepo\micropilot-entry-challenge\kayuyumwaura\countzeros\countzeros\bin\Debug\countzeros.exe
+C:\Projects\kayuyu\clonedrepo\micropilot-entry-challenge\kayuyumwaura\countzeros\countzeros\bin\Debug\countzeros.pdb
