@@ -4,5 +4,5 @@ print(count)
 
 #test
 def list():
-    assert list([1, 0, 5, 6, 0, 2]) == 2
-    assert list([3, 0, 9]) == 1
+    assert list([1, 0, 5, 6, 0, 2, 0]) == 3
+    assert list([7, 8, 0, 9]) == 1
