@@ -9,3 +9,4 @@ const CountZeros = (A) => {
   return counter;
 };
 CountZeros(A);
+
