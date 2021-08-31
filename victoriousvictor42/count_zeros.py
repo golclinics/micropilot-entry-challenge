@@ -5,6 +5,6 @@ def count_zeros(A):
 # Creating an array and storing it in the variable, A.
 A = [1, 0, 5, 6, 0, 2]
 
-# Running the function
+# Running the function and printing the result
 print(count_zeros(A))
 
