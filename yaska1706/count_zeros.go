@@ -5,7 +5,6 @@ import (
 )
 
 func CountZeros(A []int) {
-
 	count := 0
 	for index := 0; index < len(A); index++ {
 
