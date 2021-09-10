@@ -2,7 +2,7 @@
 	"name": "g-nm",
 	"version": "1.0.0",
 	"description": "",
-	"main": "zeros.js",
+	"main": "countZeros.js",
 	"scripts": {
 		"test": "jest"
 	},
