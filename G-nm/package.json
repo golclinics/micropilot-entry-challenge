@@ -1,0 +1,15 @@
+{
+	"name": "g-nm",
+	"version": "1.0.0",
+	"description": "",
+	"main": "zeros.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"jest": "^27.1.1"
+	}
+}
