@@ -1,5 +1,16 @@
-const countZeros = (A) => {
-  return A.filter((x) => x === 0).length;
+let counter = 0;
+
+function CountZeros(A) {
+  for (let i = 0; i < A.length; i++) {
+
+       if (A[i] === 0) {
+      counter ++;
+    }
+  }
+  return counter;
 };
 
-console.log(countZeros([1, 0, 5, 6, 0, 2]));
+let A = [0, 1,2,0, 3,4,5,0,0,7];
+console.log(CountZeros(A));
+
+
