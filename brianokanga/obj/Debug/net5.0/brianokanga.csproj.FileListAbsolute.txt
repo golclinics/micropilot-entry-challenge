@@ -1,0 +1,16 @@
+E:\DATA\DOTNET\GOL Clinics\micropilot-entry-challenge\brianokanga\bin\Debug\net5.0\brianokanga.exe
+E:\DATA\DOTNET\GOL Clinics\micropilot-entry-challenge\brianokanga\bin\Debug\net5.0\brianokanga.deps.json
+E:\DATA\DOTNET\GOL Clinics\micropilot-entry-challenge\brianokanga\bin\Debug\net5.0\brianokanga.runtimeconfig.json
+E:\DATA\DOTNET\GOL Clinics\micropilot-entry-challenge\brianokanga\bin\Debug\net5.0\brianokanga.runtimeconfig.dev.json
+E:\DATA\DOTNET\GOL Clinics\micropilot-entry-challenge\brianokanga\bin\Debug\net5.0\brianokanga.dll
+E:\DATA\DOTNET\GOL Clinics\micropilot-entry-challenge\brianokanga\bin\Debug\net5.0\brianokanga.pdb
+E:\DATA\DOTNET\GOL Clinics\micropilot-entry-challenge\brianokanga\obj\Debug\net5.0\brianokanga.csproj.AssemblyReference.cache
+E:\DATA\DOTNET\GOL Clinics\micropilot-entry-challenge\brianokanga\obj\Debug\net5.0\brianokanga.GeneratedMSBuildEditorConfig.editorconfig
+E:\DATA\DOTNET\GOL Clinics\micropilot-entry-challenge\brianokanga\obj\Debug\net5.0\brianokanga.AssemblyInfoInputs.cache
+E:\DATA\DOTNET\GOL Clinics\micropilot-entry-challenge\brianokanga\obj\Debug\net5.0\brianokanga.AssemblyInfo.cs
+E:\DATA\DOTNET\GOL Clinics\micropilot-entry-challenge\brianokanga\obj\Debug\net5.0\brianokanga.csproj.CoreCompileInputs.cache
+E:\DATA\DOTNET\GOL Clinics\micropilot-entry-challenge\brianokanga\obj\Debug\net5.0\brianokanga.dll
+E:\DATA\DOTNET\GOL Clinics\micropilot-entry-challenge\brianokanga\obj\Debug\net5.0\refint\brianokanga.dll
+E:\DATA\DOTNET\GOL Clinics\micropilot-entry-challenge\brianokanga\obj\Debug\net5.0\brianokanga.pdb
+E:\DATA\DOTNET\GOL Clinics\micropilot-entry-challenge\brianokanga\obj\Debug\net5.0\brianokanga.genruntimeconfig.cache
+E:\DATA\DOTNET\GOL Clinics\micropilot-entry-challenge\brianokanga\obj\Debug\net5.0\ref\brianokanga.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/LdLEotBvt+13vXnw98QEezM8jkoAb1FpGz0oAfQYZeSM/WOU8W6QarpwSTT0AvNqTMsbmJCZoP8NzKp7vvzDQ==",
+  "success": true,
+  "projectFilePath": "E:\\DATA\\DOTNET\\GOL Clinics\\micropilot-entry-challenge\\brianokanga\\brianokanga.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\XFACTOR\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.8\\microsoft.netcore.app.host.win-x64.5.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
