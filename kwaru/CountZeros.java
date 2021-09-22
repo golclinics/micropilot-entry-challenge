@@ -6,7 +6,7 @@ public int CountZeros(int []A){
    if(A.length==0)// if array is null/has no element return 0
        return zero_occurrence;
 
-    Arrays.sort(A); // sort array first
+    Arrays.sort(A); // sort array first(need to impo import Arrays to use its method sort())
     while((A[i]<1)){ // loop values below 1 after sorting
         if(A[i]==0)
         zero_occurrence++; // increment occurrence of zeros if current index has zero
