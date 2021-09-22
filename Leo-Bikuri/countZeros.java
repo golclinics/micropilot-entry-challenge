@@ -1,4 +1,4 @@
-public class MyClass {
+public class countZeros {
     
     public int CountZeros(int A[]){
         int counter = 0;
