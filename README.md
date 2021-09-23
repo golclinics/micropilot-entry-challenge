@@ -1,3 +1,3 @@
 # GOL Clinics Entry Challenge 
 
-Entry challenges for the GOL clinics 
+Andy Warui's entry for challenges for the GOL clinics 
