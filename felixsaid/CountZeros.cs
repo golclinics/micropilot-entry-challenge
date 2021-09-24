@@ -8,7 +8,7 @@ public class int CountZeros(int[] A)
         {
             zerosCounter++;
         }
-
-        return zerosCounter;
     }
+
+    return zerosCounter;
 }
