@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "micropilot-entry-challenge/1.0.0": {
+        "runtime": {
+          "micropilot-entry-challenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "micropilot-entry-challenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
