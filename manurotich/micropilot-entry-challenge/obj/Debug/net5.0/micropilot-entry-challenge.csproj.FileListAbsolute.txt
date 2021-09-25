@@ -1,0 +1,16 @@
+D:\Courses\GOL Clinics\Submission\manurotich\micropilot-entry-challenge\bin\Debug\net5.0\micropilot-entry-challenge.exe
+D:\Courses\GOL Clinics\Submission\manurotich\micropilot-entry-challenge\bin\Debug\net5.0\micropilot-entry-challenge.deps.json
+D:\Courses\GOL Clinics\Submission\manurotich\micropilot-entry-challenge\bin\Debug\net5.0\micropilot-entry-challenge.runtimeconfig.json
+D:\Courses\GOL Clinics\Submission\manurotich\micropilot-entry-challenge\bin\Debug\net5.0\micropilot-entry-challenge.runtimeconfig.dev.json
+D:\Courses\GOL Clinics\Submission\manurotich\micropilot-entry-challenge\bin\Debug\net5.0\micropilot-entry-challenge.dll
+D:\Courses\GOL Clinics\Submission\manurotich\micropilot-entry-challenge\bin\Debug\net5.0\ref\micropilot-entry-challenge.dll
+D:\Courses\GOL Clinics\Submission\manurotich\micropilot-entry-challenge\bin\Debug\net5.0\micropilot-entry-challenge.pdb
+D:\Courses\GOL Clinics\Submission\manurotich\micropilot-entry-challenge\obj\Debug\net5.0\micropilot-entry-challenge.csproj.AssemblyReference.cache
+D:\Courses\GOL Clinics\Submission\manurotich\micropilot-entry-challenge\obj\Debug\net5.0\micropilot-entry-challenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\GOL Clinics\Submission\manurotich\micropilot-entry-challenge\obj\Debug\net5.0\micropilot-entry-challenge.AssemblyInfoInputs.cache
+D:\Courses\GOL Clinics\Submission\manurotich\micropilot-entry-challenge\obj\Debug\net5.0\micropilot-entry-challenge.AssemblyInfo.cs
+D:\Courses\GOL Clinics\Submission\manurotich\micropilot-entry-challenge\obj\Debug\net5.0\micropilot-entry-challenge.csproj.CoreCompileInputs.cache
+D:\Courses\GOL Clinics\Submission\manurotich\micropilot-entry-challenge\obj\Debug\net5.0\micropilot-entry-challenge.dll
+D:\Courses\GOL Clinics\Submission\manurotich\micropilot-entry-challenge\obj\Debug\net5.0\ref\micropilot-entry-challenge.dll
+D:\Courses\GOL Clinics\Submission\manurotich\micropilot-entry-challenge\obj\Debug\net5.0\micropilot-entry-challenge.pdb
+D:\Courses\GOL Clinics\Submission\manurotich\micropilot-entry-challenge\obj\Debug\net5.0\micropilot-entry-challenge.genruntimeconfig.cache
