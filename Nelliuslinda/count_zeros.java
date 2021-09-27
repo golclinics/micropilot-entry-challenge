@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main{
+public class count_zeros{
     //Function that returns the number of times zero occurs
     public static int countZeros(int[] arr, int n){
         int count = 0;
