@@ -1,4 +1,7 @@
+import java.util.Scanner;
+
 public class Main{
+    //Function that returns the number of times zero occurs
     public static int countZeros(int[] arr, int n){
         int count = 0;
         for(int i=0; i<n; i++)
@@ -9,8 +12,19 @@ public class Main{
     }
 
     public static void main(String[] args){
-        int[] arr = new int[]{0,0,1,2,3,4};
-        int n = arr.length;
-        System.out.println(countZeros(arr,n));
+        Scanner scanner = new Scanner(System.in);
+        //To declare and initialize the array size
+        int a;
+        System.out.println("Enter the array size");
+        a = scanner.nextInt();
+
+        //To input the integers in the array
+        int arr[] = new int[a];
+        System.out.println("Input the elements of the array");
+        for (int i = 0; i<a; i++){
+            arr[i] = scanner.nextInt();
+        }
+        System.out.println("Zero occurs" + countZeros(arr,a) + "times");
+
     }
 }
