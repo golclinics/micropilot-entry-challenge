@@ -1,0 +1,16 @@
+D:\Nels\Mentorship\micropilot-entry-challenge\BRIANMWAMBIA\BRIANMWAMBIA\bin\Debug\net5.0\BRIANMWAMBIA.exe
+D:\Nels\Mentorship\micropilot-entry-challenge\BRIANMWAMBIA\BRIANMWAMBIA\bin\Debug\net5.0\BRIANMWAMBIA.deps.json
+D:\Nels\Mentorship\micropilot-entry-challenge\BRIANMWAMBIA\BRIANMWAMBIA\bin\Debug\net5.0\BRIANMWAMBIA.runtimeconfig.json
+D:\Nels\Mentorship\micropilot-entry-challenge\BRIANMWAMBIA\BRIANMWAMBIA\bin\Debug\net5.0\BRIANMWAMBIA.runtimeconfig.dev.json
+D:\Nels\Mentorship\micropilot-entry-challenge\BRIANMWAMBIA\BRIANMWAMBIA\bin\Debug\net5.0\BRIANMWAMBIA.dll
+D:\Nels\Mentorship\micropilot-entry-challenge\BRIANMWAMBIA\BRIANMWAMBIA\bin\Debug\net5.0\ref\BRIANMWAMBIA.dll
+D:\Nels\Mentorship\micropilot-entry-challenge\BRIANMWAMBIA\BRIANMWAMBIA\bin\Debug\net5.0\BRIANMWAMBIA.pdb
+D:\Nels\Mentorship\micropilot-entry-challenge\BRIANMWAMBIA\BRIANMWAMBIA\obj\Debug\net5.0\BRIANMWAMBIA.csprojAssemblyReference.cache
+D:\Nels\Mentorship\micropilot-entry-challenge\BRIANMWAMBIA\BRIANMWAMBIA\obj\Debug\net5.0\BRIANMWAMBIA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nels\Mentorship\micropilot-entry-challenge\BRIANMWAMBIA\BRIANMWAMBIA\obj\Debug\net5.0\BRIANMWAMBIA.AssemblyInfoInputs.cache
+D:\Nels\Mentorship\micropilot-entry-challenge\BRIANMWAMBIA\BRIANMWAMBIA\obj\Debug\net5.0\BRIANMWAMBIA.AssemblyInfo.cs
+D:\Nels\Mentorship\micropilot-entry-challenge\BRIANMWAMBIA\BRIANMWAMBIA\obj\Debug\net5.0\BRIANMWAMBIA.csproj.CoreCompileInputs.cache
+D:\Nels\Mentorship\micropilot-entry-challenge\BRIANMWAMBIA\BRIANMWAMBIA\obj\Debug\net5.0\BRIANMWAMBIA.dll
+D:\Nels\Mentorship\micropilot-entry-challenge\BRIANMWAMBIA\BRIANMWAMBIA\obj\Debug\net5.0\ref\BRIANMWAMBIA.dll
+D:\Nels\Mentorship\micropilot-entry-challenge\BRIANMWAMBIA\BRIANMWAMBIA\obj\Debug\net5.0\BRIANMWAMBIA.pdb
+D:\Nels\Mentorship\micropilot-entry-challenge\BRIANMWAMBIA\BRIANMWAMBIA\obj\Debug\net5.0\BRIANMWAMBIA.genruntimeconfig.cache
