@@ -1,6 +1,8 @@
 def firstZero(arr, low, high):
     """
-    once the array is sorted all elements are present bfore the zero assuming there are no negative numbers
+    once the array is sorted all elements are present before the zero assuming there are no negative numbers
+    if there are negative numbers it's taken care of in the count zeros function
+    
     """
  
     if (high >= low):
