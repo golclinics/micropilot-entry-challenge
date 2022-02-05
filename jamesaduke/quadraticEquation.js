@@ -22,4 +22,6 @@ const getX = (a, b, c) => {
     }
 }
 
-console.log(getX(1, 2, 3)); // -1
+// console.log(getX(1, 2, 3)); // -1
+console.log(getX(1,6,5));
+console.log(getX(10,8,9));
