@@ -1,0 +1,13 @@
+C:\Users\v-romusy\Desktop\micropilot-entry-challenge\rosianah\bin\Debug\netcoreapp3.1\rosianah.exe
+C:\Users\v-romusy\Desktop\micropilot-entry-challenge\rosianah\bin\Debug\netcoreapp3.1\rosianah.deps.json
+C:\Users\v-romusy\Desktop\micropilot-entry-challenge\rosianah\bin\Debug\netcoreapp3.1\rosianah.runtimeconfig.json
+C:\Users\v-romusy\Desktop\micropilot-entry-challenge\rosianah\bin\Debug\netcoreapp3.1\rosianah.runtimeconfig.dev.json
+C:\Users\v-romusy\Desktop\micropilot-entry-challenge\rosianah\bin\Debug\netcoreapp3.1\rosianah.dll
+C:\Users\v-romusy\Desktop\micropilot-entry-challenge\rosianah\bin\Debug\netcoreapp3.1\rosianah.pdb
+C:\Users\v-romusy\Desktop\micropilot-entry-challenge\rosianah\obj\Debug\netcoreapp3.1\rosianah.csprojAssemblyReference.cache
+C:\Users\v-romusy\Desktop\micropilot-entry-challenge\rosianah\obj\Debug\netcoreapp3.1\rosianah.AssemblyInfoInputs.cache
+C:\Users\v-romusy\Desktop\micropilot-entry-challenge\rosianah\obj\Debug\netcoreapp3.1\rosianah.AssemblyInfo.cs
+C:\Users\v-romusy\Desktop\micropilot-entry-challenge\rosianah\obj\Debug\netcoreapp3.1\rosianah.csproj.CoreCompileInputs.cache
+C:\Users\v-romusy\Desktop\micropilot-entry-challenge\rosianah\obj\Debug\netcoreapp3.1\rosianah.dll
+C:\Users\v-romusy\Desktop\micropilot-entry-challenge\rosianah\obj\Debug\netcoreapp3.1\rosianah.pdb
+C:\Users\v-romusy\Desktop\micropilot-entry-challenge\rosianah\obj\Debug\netcoreapp3.1\rosianah.genruntimeconfig.cache
