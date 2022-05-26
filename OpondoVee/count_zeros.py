@@ -1,6 +1,3 @@
-from itertools import count
-
-
 mylist = [0, 5, 8, 9, 0, 1, 0, 4, 0, 12]
 
 def CountZeros(A):
