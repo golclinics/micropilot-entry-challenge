@@ -10,7 +10,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v1
 
-      - name: Comment on the PR with a signup form link
+      - name: Comment on the PR with a signup form link.
         uses: thollander/actions-comment-pull-request@main
         with:
           message: 'Thanks for creating this PR. Please submit your details on [this form](${{ secrets.SIGNUP_FORM }})'
