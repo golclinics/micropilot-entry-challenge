@@ -10,6 +10,6 @@ const CountZeros =(A)=>{
     return filteredArray.length;
 }
 
-// CountZeros([1, 0, 5, 6, 0, 2]);
+CountZeros([1, 0, 5, 6, 0, 2]);
 
 module.exports = CountZeros;
