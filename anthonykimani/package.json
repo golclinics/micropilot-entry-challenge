@@ -1,0 +1,23 @@
+{
+  "name": "micropilot-entry-challenge",
+  "version": "1.0.0",
+  "description": "Entry challenges for the GOL clinics",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonykimani/micropilot-entry-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthonykimani/micropilot-entry-challenge/issues"
+  },
+  "homepage": "https://github.com/anthonykimani/micropilot-entry-challenge#readme",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
