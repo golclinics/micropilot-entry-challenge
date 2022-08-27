@@ -1,0 +1,22 @@
+{
+  "name": "micropilot-entry-challenge",
+  "version": "1.0.0",
+  "description": "Entry challenges for the GOL clinics",
+  "main": "count_zeros.js",
+  "scripts": {
+    "test": "jest --colors"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/speedygamer12/micropilot-entry-challenge.git"
+  },
+  "author": "Yusuf Giwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/speedygamer12/micropilot-entry-challenge/issues"
+  },
+  "homepage": "https://github.com/speedygamer12/micropilot-entry-challenge#readme",
+  "dependencies": {
+    "jest": "^28.1.2"
+  }
+}
