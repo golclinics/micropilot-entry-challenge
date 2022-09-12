@@ -1,0 +1,10 @@
+def list_count_zero(nums):
+  count = 0  
+  for num in nums:
+    if num == 0:
+      count = count + 1
+
+  return count
+
+print(list_count_zero([1, 0, 6, 0, 4]))
+print(list_count_zero([1, 0, 0, 0, 7, 0]))
