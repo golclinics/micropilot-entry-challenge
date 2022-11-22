@@ -1,6 +1,6 @@
 def CountZeros(A):
     count = 0
-    for i in arr:
+    for i in A:
         if i == 0:
             count+=1
     
