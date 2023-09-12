@@ -7,3 +7,9 @@ def count_zeros(A)-> int:
             count += 1
 
     return 0
+
+
+# Simple function call for dry run
+arr = [1, 0, 5, 6, 0, 2]
+result = count_zeros(arr)   # 2
+print(result)  
